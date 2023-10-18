@@ -1,0 +1,10 @@
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/bin/Debug/netcoreapp3.1/Task1.deps.json
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/bin/Debug/netcoreapp3.1/Task1.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/bin/Debug/netcoreapp3.1/Task1.pdb
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.csproj.AssemblyReference.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfoInputs.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfo.cs
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.csproj.CoreCompileInputs.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.pdb

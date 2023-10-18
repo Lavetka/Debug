@@ -1,0 +1,24 @@
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/bin/Debug/net7.0/Task1.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/Task1.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1/obj/Debug/net7.0/ref/Task1.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/bin/Debug/net7.0/Task1.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/Task1.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1/obj/Debug/net7.0/ref/Task1.dll

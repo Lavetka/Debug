@@ -1,0 +1,202 @@
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/nunit.engine.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Task1.Tests.deps.json
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Task1.Tests.runtimeconfig.json
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Task1.Tests.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Task1.Tests.pdb
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.DotNet.InternalAbstractions.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/testhost.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/nunit.framework.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/System.Xml.XPath.XmlDocument.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Task1.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/bin/Debug/net7.0/Task1.pdb
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.csproj.AssemblyReference.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.AssemblyInfoInputs.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.AssemblyInfo.cs
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.csproj.CoreCompileInputs.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.csproj.CopyComplete
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/refint/Task1.Tests.dll
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.pdb
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/Task1.Tests.genruntimeconfig.cache
+/Users/lavetos/Downloads/Debugging Fundamentals/Task1.Tests/obj/Debug/net7.0/ref/Task1.Tests.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/nunit.engine.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Task1.Tests.deps.json
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Task1.Tests.runtimeconfig.json
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Task1.Tests.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Task1.Tests.pdb
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.DotNet.InternalAbstractions.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/testhost.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/nunit.framework.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/System.Xml.XPath.XmlDocument.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Task1.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/bin/Debug/net7.0/Task1.pdb
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.csproj.AssemblyReference.cache
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.AssemblyInfoInputs.cache
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.AssemblyInfo.cs
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.csproj.CoreCompileInputs.cache
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.csproj.CopyComplete
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/refint/Task1.Tests.dll
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.pdb
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/Task1.Tests.genruntimeconfig.cache
+/Users/lavetos/Projects/NETMentoring/DebugTask2/Task1.Tests/obj/Debug/net7.0/ref/Task1.Tests.dll
